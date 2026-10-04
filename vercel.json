@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/api/stocks",
+      "dest": "/api/stocks.py"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/api/stocks.py"
+    }
+  ]
+}

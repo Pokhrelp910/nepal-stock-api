@@ -1,0 +1,2144 @@
+{
+  "status": "success",
+  "updated_at": "2026-10-04 09:25:48",
+  "source": "Merolagani / NEPSE",
+  "total_stocks": 356,
+  "stocks": [
+    {
+      "symbol": "ACLBSL",
+      "name": "Aarambha Chautari Laghubitta Bittiya Sanstha Limited",
+      "ltp": 869.0,
+      "change": -0.34
+    },
+    {
+      "symbol": "ADBL",
+      "name": "Agriculture Development Bank Limited",
+      "ltp": 309.0,
+      "change": -0.32
+    },
+    {
+      "symbol": "AHL",
+      "name": "Asian Hydropower Limited",
+      "ltp": 375.1,
+      "change": -0.24
+    },
+    {
+      "symbol": "AHPC",
+      "name": "Arun Valley Hydropower Development Co. Ltd.",
+      "ltp": 254.2,
+      "change": -0.31
+    },
+    {
+      "symbol": "AKJCL",
+      "name": "Ankhu Khola Jalvidhyut Company Ltd",
+      "ltp": 356.0,
+      "change": 0.65
+    },
+    {
+      "symbol": "AKPL",
+      "name": "Arun Kabeli Power Ltd.",
+      "ltp": 249.0,
+      "change": -1.11
+    },
+    {
+      "symbol": "ALBSL",
+      "name": "Asha Laghubitta Bittiya Sanstha Limited",
+      "ltp": 1189.0,
+      "change": 0.25
+    },
+    {
+      "symbol": "ALICL",
+      "name": "Asian Life Insurance Co. Limited",
+      "ltp": 422.9,
+      "change": -0.02
+    },
+    {
+      "symbol": "ANLB",
+      "name": "Aatmanirbhar Laghubitta Bittiya Sanstha Limited",
+      "ltp": 4919.0,
+      "change": -0.01
+    },
+    {
+      "symbol": "APHL",
+      "name": "Appolo Hydropower Limited",
+      "ltp": 591.8,
+      "change": -4.24
+    },
+    {
+      "symbol": "API",
+      "name": "Api Power Company Ltd.",
+      "ltp": 338.8,
+      "change": -0.65
+    },
+    {
+      "symbol": "AVYAN",
+      "name": "Aviyan Laghubitta Bittiya Sanstha Limited",
+      "ltp": 1059.0,
+      "change": 1.83
+    },
+    {
+      "symbol": "BANDIPUR",
+      "name": "Bandipur Cablecar and Tourism Limited",
+      "ltp": 615.3,
+      "change": -1.24
+    },
+    {
+      "symbol": "BARUN",
+      "name": "Barun Hydropower Co. Ltd.",
+      "ltp": 326.0,
+      "change": -1.51
+    },
+    {
+      "symbol": "BBC",
+      "name": "Bishal Bazar Company Limited",
+      "ltp": 3978.0,
+      "change": -1.07
+    },
+    {
+      "symbol": "BEDC",
+      "name": "Bhugol Energy Development Company Limited",
+      "ltp": 295.9,
+      "change": -1.04
+    },
+    {
+      "symbol": "BFC",
+      "name": "Best Finance Company Ltd.",
+      "ltp": 460.3,
+      "change": 2.29
+    },
+    {
+      "symbol": "BGWT",
+      "name": "Bhagawati Hydropower Development Company Ltd.",
+      "ltp": 471.0,
+      "change": -2.89
+    },
+    {
+      "symbol": "BHCL",
+      "name": "Bikash Hydropower Company Limited",
+      "ltp": 561.0,
+      "change": -1.54
+    },
+    {
+      "symbol": "BHDC",
+      "name": "Bindyabasini Hydropower Development Company Limited",
+      "ltp": 419.5,
+      "change": -1.87
+    },
+    {
+      "symbol": "BHL",
+      "name": "Balephi Hydropower Limited",
+      "ltp": 212.6,
+      "change": -0.98
+    },
+    {
+      "symbol": "BHPL",
+      "name": "Barahi Hydropower Public Limited",
+      "ltp": 433.0,
+      "change": -1.12
+    },
+    {
+      "symbol": "BJHL",
+      "name": "Bhujung Hydropower Limited",
+      "ltp": 575.0,
+      "change": -1.71
+    },
+    {
+      "symbol": "BNHC",
+      "name": "Buddhabhumi Nepal Hydropower Company Limited",
+      "ltp": 272.0,
+      "change": -0.73
+    },
+    {
+      "symbol": "BNL",
+      "name": "Bottlers Nepal (Balaju",
+      "ltp": 14200.0,
+      "change": 0.71
+    },
+    {
+      "symbol": "BNT",
+      "name": "Bottlers Nepal (Terai",
+      "ltp": 11900.0,
+      "change": 0.0
+    },
+    {
+      "symbol": "BOKD86",
+      "name": "8.5% BOK Debenture 2086",
+      "ltp": 1080.1,
+      "change": -0.63
+    },
+    {
+      "symbol": "BPCL",
+      "name": "Butwal Power Company Limited",
+      "ltp": 645.0,
+      "change": -1.53
+    },
+    {
+      "symbol": "BUNGAL",
+      "name": "Bungal Hydro Limited",
+      "ltp": 489.2,
+      "change": 0.6
+    },
+    {
+      "symbol": "C30MF",
+      "name": "Citizens Super 30 Mutual Fund",
+      "ltp": 9.48,
+      "change": -0.11
+    },
+    {
+      "symbol": "CBBL",
+      "name": "Chhimek Laghubitta Bittiya Sanstha Limited",
+      "ltp": 948.0,
+      "change": -0.05
+    },
+    {
+      "symbol": "CFCL",
+      "name": "Central Finance Co. Ltd.",
+      "ltp": 570.0,
+      "change": -0.35
+    },
+    {
+      "symbol": "CGH",
+      "name": "Chandragiri Hills Limited",
+      "ltp": 762.1,
+      "change": 0.28
+    },
+    {
+      "symbol": "CHCL",
+      "name": "Chilime Hydropower Company Limited",
+      "ltp": 339.0,
+      "change": -0.79
+    },
+    {
+      "symbol": "CHDC",
+      "name": "CEDB Holdings Limited",
+      "ltp": 2349.5,
+      "change": -0.54
+    },
+    {
+      "symbol": "CHL",
+      "name": "Chhyangdi Hydropower Ltd.",
+      "ltp": 258.0,
+      "change": -1.11
+    },
+    {
+      "symbol": "CIT",
+      "name": "Citizen Investment Trust",
+      "ltp": 1735.0,
+      "change": -0.17
+    },
+    {
+      "symbol": "CITY",
+      "name": "City Hotel Limited",
+      "ltp": 343.7,
+      "change": 0.23
+    },
+    {
+      "symbol": "CIZBD86",
+      "name": "10.25% Citizens Bank Debenture 2086",
+      "ltp": 1210.0,
+      "change": 0.0
+    },
+    {
+      "symbol": "CKHL",
+      "name": "Chirkhwa Hydropower Limited",
+      "ltp": 524.9,
+      "change": -1.52
+    },
+    {
+      "symbol": "CLI",
+      "name": "Citizen Life Insurance Company Limited",
+      "ltp": 433.0,
+      "change": -0.69
+    },
+    {
+      "symbol": "CORBL",
+      "name": "Corporate Development Bank Limited",
+      "ltp": 810.0,
+      "change": 0.38
+    },
+    {
+      "symbol": "CREST",
+      "name": "Crest Micro Life Insurance Ltd.",
+      "ltp": 1077.0,
+      "change": -0.28
+    },
+    {
+      "symbol": "CSY",
+      "name": "Citizens Santulit Yojana",
+      "ltp": 8.52,
+      "change": 0.24
+    },
+    {
+      "symbol": "CYCL",
+      "name": "CYC Nepal Laghubitta Bittiya Sanstha Limited",
+      "ltp": 1544.0,
+      "change": 1.25
+    },
+    {
+      "symbol": "CZBIL",
+      "name": "Citizen Bank International Limited",
+      "ltp": 211.0,
+      "change": -0.71
+    },
+    {
+      "symbol": "DDBL",
+      "name": "Deprosc Laghubitta Bittiya Sanstha Limited",
+      "ltp": 849.0,
+      "change": 0.12
+    },
+    {
+      "symbol": "DHEL",
+      "name": "Daramkhola Hydro Energy Limited",
+      "ltp": 517.0,
+      "change": -1.52
+    },
+    {
+      "symbol": "DHPL",
+      "name": "Dibyashwori Hydropower Ltd.",
+      "ltp": 267.6,
+      "change": -1.98
+    },
+    {
+      "symbol": "DLBS",
+      "name": "Dhaulagiri Laghubitta Bittiya Sanstha Limited",
+      "ltp": 1090.1,
+      "change": -4.95
+    },
+    {
+      "symbol": "DOLTI",
+      "name": "Dolti Power Company Limited",
+      "ltp": 305.1,
+      "change": -0.94
+    },
+    {
+      "symbol": "DORDI",
+      "name": "Dordi Khola Jal Bidyut Company Limited",
+      "ltp": 256.0,
+      "change": -1.69
+    },
+    {
+      "symbol": "EBL",
+      "name": "Everest Bank Limited",
+      "ltp": 700.0,
+      "change": 0.55
+    },
+    {
+      "symbol": "EBLD85",
+      "name": "10.50% Everest Bank Limited Debenture 2085",
+      "ltp": 1130.0,
+      "change": 0.89
+    },
+    {
+      "symbol": "EBLD86",
+      "name": "8.5% of Everest Bank Limited Debenture 2086",
+      "ltp": 1102.0,
+      "change": 2.99
+    },
+    {
+      "symbol": "EBLD91",
+      "name": "Everest Bank Limited Rinpatra 2091",
+      "ltp": 1120.0,
+      "change": 0.0
+    },
+    {
+      "symbol": "ECL",
+      "name": "Everest Colour Limited",
+      "ltp": 1255.0,
+      "change": -0.87
+    },
+    {
+      "symbol": "EDBL",
+      "name": "Excel Development Bank Ltd.",
+      "ltp": 565.0,
+      "change": -1.74
+    },
+    {
+      "symbol": "EHPL",
+      "name": "Eastern Hydropower Limited",
+      "ltp": 319.0,
+      "change": 0.31
+    },
+    {
+      "symbol": "ENL",
+      "name": "Emerging Nepal Limited",
+      "ltp": 498.3,
+      "change": -3.62
+    },
+    {
+      "symbol": "FMDBL",
+      "name": "First Micro Finance Laghubitta Bittiya Sanstha Limited",
+      "ltp": 731.7,
+      "change": -0.97
+    },
+    {
+      "symbol": "FOWAD",
+      "name": "Forward Microfinance Laghubitta Bittiya Sanstha Ltd.",
+      "ltp": 882.5,
+      "change": 0.74
+    },
+    {
+      "symbol": "GBBD85",
+      "name": "Garima Debenture, 2085",
+      "ltp": 1045.1,
+      "change": -0.94
+    },
+    {
+      "symbol": "GBBL",
+      "name": "Garima Bikas Bank Limited",
+      "ltp": 400.0,
+      "change": -0.65
+    },
+    {
+      "symbol": "GBILD84/85",
+      "name": "Global IME Bank Debenture 2084/85",
+      "ltp": 1160.0,
+      "change": 0.87
+    },
+    {
+      "symbol": "GBIME",
+      "name": "Global IME Bank Limited",
+      "ltp": 243.0,
+      "change": -0.37
+    },
+    {
+      "symbol": "GBIMESY2",
+      "name": "Global IME Samunnat Yojana - II",
+      "ltp": 8.83,
+      "change": -1.89
+    },
+    {
+      "symbol": "GBLBS",
+      "name": "Grameen Bikas Laghubitta Bittiya Sanstha Ltd.",
+      "ltp": 664.0,
+      "change": -1.19
+    },
+    {
+      "symbol": "GCIL",
+      "name": "Ghorahi Cement Industry Limited",
+      "ltp": 383.0,
+      "change": -2.05
+    },
+    {
+      "symbol": "GFCL",
+      "name": "Goodwill Finance Co. Ltd.",
+      "ltp": 560.3,
+      "change": -0.3
+    },
+    {
+      "symbol": "GHL",
+      "name": "Ghalemdi Hydro Limited",
+      "ltp": 269.0,
+      "change": -1.68
+    },
+    {
+      "symbol": "GIBF1",
+      "name": "Global IME Balanced Fund-1",
+      "ltp": 10.14,
+      "change": 1.4
+    },
+    {
+      "symbol": "GILB",
+      "name": "Global IME Laghubitta Bittiya Sanstha Ltd.",
+      "ltp": 1100.1,
+      "change": -1.07
+    },
+    {
+      "symbol": "GLBSL",
+      "name": "Gurans Laghubitta Bittiya Sanstha Limited",
+      "ltp": 1680.0,
+      "change": 0.0
+    },
+    {
+      "symbol": "GLH",
+      "name": "Greenlife Hydropower Limited",
+      "ltp": 273.0,
+      "change": -2.43
+    },
+    {
+      "symbol": "GMFBS",
+      "name": "Ganapati Microfinance Bittiya Sanstha Ltd",
+      "ltp": 1090.0,
+      "change": 0.0
+    },
+    {
+      "symbol": "GMFIL",
+      "name": "Guheshowori Merchant Bank & Finance Co. Ltd.",
+      "ltp": 412.0,
+      "change": -0.02
+    },
+    {
+      "symbol": "GMLI",
+      "name": "Guardian Micro-Life Insurance Limited",
+      "ltp": 949.0,
+      "change": 0.26
+    },
+    {
+      "symbol": "GRDBL",
+      "name": "Green Development Bank Ltd.",
+      "ltp": 923.8,
+      "change": -0.45
+    },
+    {
+      "symbol": "GSY",
+      "name": "Garima Samriddhi Yojana",
+      "ltp": 9.07,
+      "change": -0.44
+    },
+    {
+      "symbol": "GUFL",
+      "name": "Gurkhas Finance Ltd.",
+      "ltp": 497.0,
+      "change": -0.04
+    },
+    {
+      "symbol": "GVL",
+      "name": "Green Ventures Limited",
+      "ltp": 493.4,
+      "change": 0.28
+    },
+    {
+      "symbol": "H8020",
+      "name": "Himalayan 80-20",
+      "ltp": 11.1,
+      "change": 0.54
+    },
+    {
+      "symbol": "HATHY",
+      "name": "Hathway Investment Nepal Limited",
+      "ltp": 440.0,
+      "change": -3.3
+    },
+    {
+      "symbol": "HBL",
+      "name": "Himalayan Bank Limited",
+      "ltp": 191.3,
+      "change": -1.03
+    },
+    {
+      "symbol": "HDHPC",
+      "name": "Himal Dolakha Hydropower Company Limited",
+      "ltp": 220.0,
+      "change": -1.57
+    },
+    {
+      "symbol": "HDL",
+      "name": "Himalayan Distillery Limited",
+      "ltp": 1293.0,
+      "change": 0.54
+    },
+    {
+      "symbol": "HEI",
+      "name": "Himalayan Everest Insurance Limited",
+      "ltp": 444.1,
+      "change": -1.0
+    },
+    {
+      "symbol": "HEIP",
+      "name": "Himalayan Everest Insurance Limited Promoter",
+      "ltp": 308.4,
+      "change": -5.4
+    },
+    {
+      "symbol": "HFIN",
+      "name": "Hotel Forest Inn Limited",
+      "ltp": 560.0,
+      "change": -3.76
+    },
+    {
+      "symbol": "HHL",
+      "name": "Himalayan Hydropower Limited",
+      "ltp": 341.5,
+      "change": -1.47
+    },
+    {
+      "symbol": "HIDCL",
+      "name": "Hydorelectricity Investment and Development Company Ltd",
+      "ltp": 249.5,
+      "change": -0.2
+    },
+    {
+      "symbol": "HIDCLP",
+      "name": "Hydroelectricity Investment and Development Company Limited Promoter Share",
+      "ltp": 186.9,
+      "change": -0.74
+    },
+    {
+      "symbol": "HIMSTAR",
+      "name": "Him Star Urja Company Limited",
+      "ltp": 619.0,
+      "change": -0.8
+    },
+    {
+      "symbol": "HLBSL",
+      "name": "Himalayan Laghubitta Bittiya Sanstha Limited",
+      "ltp": 870.0,
+      "change": -1.13
+    },
+    {
+      "symbol": "HLI",
+      "name": "Himalayan Life Insurance Limited",
+      "ltp": 300.0,
+      "change": -1.32
+    },
+    {
+      "symbol": "HLICF",
+      "name": "HLI Large Cap Fund",
+      "ltp": 8.5,
+      "change": 2.04
+    },
+    {
+      "symbol": "HPPL",
+      "name": "Himalayan Power Partner Ltd.",
+      "ltp": 380.9,
+      "change": 0.26
+    },
+    {
+      "symbol": "HRL",
+      "name": "Himalayan Reinsurance Limited",
+      "ltp": 499.0,
+      "change": -0.28
+    },
+    {
+      "symbol": "HURJA",
+      "name": "Himalaya Urja Bikas Company Limited",
+      "ltp": 257.0,
+      "change": -1.15
+    },
+    {
+      "symbol": "ICFC",
+      "name": "ICFC Finance Limited",
+      "ltp": 592.0,
+      "change": -0.17
+    },
+    {
+      "symbol": "ICFCD88",
+      "name": "9% ICFC Finance Limited Debenture-2088",
+      "ltp": 1150.0,
+      "change": 1.76
+    },
+    {
+      "symbol": "ICFCD89",
+      "name": "8% ICFC Finance Limited Debenture-2089",
+      "ltp": 1111.0,
+      "change": 0.35
+    },
+    {
+      "symbol": "IGI",
+      "name": "IGI Prudential Insurance Company Limited",
+      "ltp": 384.5,
+      "change": -0.54
+    },
+    {
+      "symbol": "IHL",
+      "name": "Ingwa Hydropower Limited",
+      "ltp": 315.5,
+      "change": -1.34
+    },
+    {
+      "symbol": "ILBS",
+      "name": "Infinity Laghubitta Bittiya Sanstha Limited",
+      "ltp": 917.0,
+      "change": -3.26
+    },
+    {
+      "symbol": "ILI",
+      "name": "IME Life Insurance Company Limited",
+      "ltp": 423.6,
+      "change": 0.36
+    },
+    {
+      "symbol": "JBBL",
+      "name": "Jyoti Bikas Bank Limited",
+      "ltp": 343.0,
+      "change": -0.55
+    },
+    {
+      "symbol": "JBLB",
+      "name": "Jeevan Bikas Laghubitta Bittiya Sanstha Limited",
+      "ltp": 1278.0,
+      "change": 0.0
+    },
+    {
+      "symbol": "JFL",
+      "name": "Janaki Finance Ltd.",
+      "ltp": 280.0,
+      "change": 0.0
+    },
+    {
+      "symbol": "JHAPA",
+      "name": "Jhapa Energy Limited",
+      "ltp": 1011.0,
+      "change": -0.59
+    },
+    {
+      "symbol": "JOSHI",
+      "name": "Joshi Hydropower Development Company Ltd",
+      "ltp": 260.0,
+      "change": -0.91
+    },
+    {
+      "symbol": "JSLBB",
+      "name": "Janautthan Samudayic Laghubitta Bittiya Sanstha Limited",
+      "ltp": 942.0,
+      "change": -1.2
+    },
+    {
+      "symbol": "KAHL",
+      "name": "Kalanga Hydro Limited",
+      "ltp": 458.0,
+      "change": -1.93
+    },
+    {
+      "symbol": "KBL",
+      "name": "Kumari Bank Limited",
+      "ltp": 225.5,
+      "change": 0.22
+    },
+    {
+      "symbol": "KBLD89",
+      "name": "11% KBL Debenture 2089",
+      "ltp": 1326.0,
+      "change": -1.78
+    },
+    {
+      "symbol": "KBLPO",
+      "name": "Kumari Bank Limited Promotor Share",
+      "ltp": 100.0,
+      "change": 0.0
+    },
+    {
+      "symbol": "KBSH",
+      "name": "Kutheli Bukhari Small Hydropower Limited",
+      "ltp": 806.0,
+      "change": -0.25
+    },
+    {
+      "symbol": "KDBY",
+      "name": "Kumari Dhanabriddhi Yojana",
+      "ltp": 10.01,
+      "change": -0.79
+    },
+    {
+      "symbol": "KDL",
+      "name": "Kalinchowk Darshan Limited",
+      "ltp": 567.0,
+      "change": -1.03
+    },
+    {
+      "symbol": "KEF",
+      "name": "Kumari Equity Fund",
+      "ltp": 9.25,
+      "change": -1.07
+    },
+    {
+      "symbol": "KHPL",
+      "name": "Kalinchock Hydropower Limited",
+      "ltp": 651.0,
+      "change": -2.69
+    },
+    {
+      "symbol": "KKHC",
+      "name": "Khanikhola Hydropower Co. Ltd.",
+      "ltp": 269.2,
+      "change": -1.14
+    },
+    {
+      "symbol": "KMCDB",
+      "name": "Kalika Laghubitta Bittiya Sanstha Limited",
+      "ltp": 799.5,
+      "change": -0.81
+    },
+    {
+      "symbol": "KPCL",
+      "name": "Kalika power Company Ltd",
+      "ltp": 455.9,
+      "change": 0.64
+    },
+    {
+      "symbol": "KSBBL",
+      "name": "Kamana Sewa Bikas Bank Limited",
+      "ltp": 447.0,
+      "change": -0.45
+    },
+    {
+      "symbol": "KSY",
+      "name": "Kumari Sabal Yojana",
+      "ltp": 9.15,
+      "change": 1.67
+    },
+    {
+      "symbol": "LBBL",
+      "name": "Lumbini Bikas Bank Ltd.",
+      "ltp": 478.0,
+      "change": 0.0
+    },
+    {
+      "symbol": "LEC",
+      "name": "Liberty Energy Company Limited",
+      "ltp": 245.0,
+      "change": -2.89
+    },
+    {
+      "symbol": "LICN",
+      "name": "Life Insurance Co. Nepal",
+      "ltp": 781.8,
+      "change": 0.23
+    },
+    {
+      "symbol": "LLBS",
+      "name": "Laxmi Laghubitta Bittiya Sanstha Ltd.",
+      "ltp": 805.0,
+      "change": -1.6
+    },
+    {
+      "symbol": "LSD92",
+      "name": "7% Laxmi Sunrise Debenture 2092",
+      "ltp": 1150.0,
+      "change": 1.77
+    },
+    {
+      "symbol": "LSH12",
+      "name": "LS Horizon 12",
+      "ltp": 9.0,
+      "change": 0.0
+    },
+    {
+      "symbol": "LSL",
+      "name": "Laxmi Sunrise Bank Limited",
+      "ltp": 254.6,
+      "change": -1.32
+    },
+    {
+      "symbol": "LUK",
+      "name": "Laxmi unnati Kosh",
+      "ltp": 9.73,
+      "change": 4.62
+    },
+    {
+      "symbol": "LVF2",
+      "name": "Laxmi Value Fund 2",
+      "ltp": 9.15,
+      "change": 0.0
+    },
+    {
+      "symbol": "MABEL",
+      "name": "Mabilung Energy Limited",
+      "ltp": 563.0,
+      "change": 0.2
+    },
+    {
+      "symbol": "MAKAR",
+      "name": "Makar Jitumaya Suri Hydropower Limited",
+      "ltp": 404.1,
+      "change": -1.2
+    },
+    {
+      "symbol": "MANDU",
+      "name": "Mandu Hydropower Ltd.",
+      "ltp": 792.0,
+      "change": 5.45
+    },
+    {
+      "symbol": "MATRI",
+      "name": "Matribhumi Laghubitta Bittiya Sanstha Limited",
+      "ltp": 720.0,
+      "change": -0.15
+    },
+    {
+      "symbol": "MBJC",
+      "name": "Madhya Bhotekoshi Jalavidyut Company Limited",
+      "ltp": 295.0,
+      "change": 0.44
+    },
+    {
+      "symbol": "MBL",
+      "name": "Machhapuchchhre Bank Limited",
+      "ltp": 250.0,
+      "change": -0.75
+    },
+    {
+      "symbol": "MBLEF",
+      "name": "MBL Equity Fund",
+      "ltp": 9.1,
+      "change": 0.11
+    },
+    {
+      "symbol": "MCHL",
+      "name": "Menchhiyam Hydropower Limited",
+      "ltp": 266.9,
+      "change": -2.56
+    },
+    {
+      "symbol": "MDB",
+      "name": "Miteri Development Bank Limited",
+      "ltp": 558.0,
+      "change": 0.18
+    },
+    {
+      "symbol": "MEHL",
+      "name": "Manakamana Engineering Hydropower Limited",
+      "ltp": 258.0,
+      "change": -0.69
+    },
+    {
+      "symbol": "MEL",
+      "name": "Modi Energy Limited",
+      "ltp": 210.9,
+      "change": 0.43
+    },
+    {
+      "symbol": "MEN",
+      "name": "Mountain Energy Nepal Limited",
+      "ltp": 635.4,
+      "change": -0.41
+    },
+    {
+      "symbol": "MEPDL",
+      "name": "Mount Everest Power Development Limited",
+      "ltp": 632.0,
+      "change": 0.8
+    },
+    {
+      "symbol": "MERO",
+      "name": "Meromicrofinance Laghubitta Bittiya Sanstha Ltd.",
+      "ltp": 590.0,
+      "change": -0.17
+    },
+    {
+      "symbol": "MFIL",
+      "name": "Manjushree Finance Ltd.",
+      "ltp": 741.0,
+      "change": -1.19
+    },
+    {
+      "symbol": "MHCL",
+      "name": "Molung Hydropower Company Limited",
+      "ltp": 281.0,
+      "change": -1.75
+    },
+    {
+      "symbol": "MHL",
+      "name": "Mandakini Hydropower Limited",
+      "ltp": 444.0,
+      "change": -0.22
+    },
+    {
+      "symbol": "MHNL",
+      "name": "Mountain Hydro Nepal Limited",
+      "ltp": 251.5,
+      "change": -2.14
+    },
+    {
+      "symbol": "MKCL",
+      "name": "Muktinath Krishi Company Limited",
+      "ltp": 810.1,
+      "change": -4.36
+    },
+    {
+      "symbol": "MKHC",
+      "name": "Maya Khola Hydropower Company Limited",
+      "ltp": 249.0,
+      "change": -1.97
+    },
+    {
+      "symbol": "MKHL",
+      "name": "Mai Khola Hydropower Limited",
+      "ltp": 490.0,
+      "change": -1.8
+    },
+    {
+      "symbol": "MKJC",
+      "name": "Mailung Khola Jal Vidhyut Company  Limited",
+      "ltp": 337.0,
+      "change": -0.3
+    },
+    {
+      "symbol": "MLBBL",
+      "name": "Mithila Laghubitta Bittiya Sanstha Ltd.",
+      "ltp": 941.0,
+      "change": -1.15
+    },
+    {
+      "symbol": "MLBL",
+      "name": "Mahalaxmi Bikas Bank Ltd.",
+      "ltp": 354.0,
+      "change": -0.28
+    },
+    {
+      "symbol": "MLBS",
+      "name": "Manushi Laghubitta Bittiya Sanstha Limited",
+      "ltp": 994.9,
+      "change": 1.37
+    },
+    {
+      "symbol": "MLBSL",
+      "name": "Mahila Laghubitta Bittiya Sanstha Limited",
+      "ltp": 1082.1,
+      "change": 0.1
+    },
+    {
+      "symbol": "MMF1",
+      "name": "Mega Mutual Fund-1",
+      "ltp": 8.83,
+      "change": 0.91
+    },
+    {
+      "symbol": "MMKJL",
+      "name": "Mathillo Mailun Khola Jalvidhyut Limited",
+      "ltp": 362.0,
+      "change": -1.9
+    },
+    {
+      "symbol": "MNBBL",
+      "name": "Muktinath Bikas Bank Ltd.",
+      "ltp": 330.0,
+      "change": -0.3
+    },
+    {
+      "symbol": "MNBBLP",
+      "name": "Muktinath Bikas Bank Limited Promoter Share",
+      "ltp": 236.2,
+      "change": 0.0
+    },
+    {
+      "symbol": "MNMF1",
+      "name": "Muktinath Mutual Fund 1",
+      "ltp": 9.1,
+      "change": 1.68
+    },
+    {
+      "symbol": "MPFL",
+      "name": "Multipurpose Finance Company Limited",
+      "ltp": 579.0,
+      "change": -0.99
+    },
+    {
+      "symbol": "MSHL",
+      "name": "Mid-Solu Hydropower Limited",
+      "ltp": 533.5,
+      "change": -0.32
+    },
+    {
+      "symbol": "MSLB",
+      "name": "Mahuli Laghubitta Bittiya Sanstha Ltd.",
+      "ltp": 1189.9,
+      "change": -0.34
+    },
+    {
+      "symbol": "NABBC",
+      "name": "Narayani Development Bank Limited",
+      "ltp": 705.0,
+      "change": -1.12
+    },
+    {
+      "symbol": "NABIL",
+      "name": "Nabil Bank Limited",
+      "ltp": 528.7,
+      "change": 0.04
+    },
+    {
+      "symbol": "NABILD2089",
+      "name": "7% Nabil Debenture 2089",
+      "ltp": 1105.0,
+      "change": 2.6
+    },
+    {
+      "symbol": "NABILD87",
+      "name": "9% Nabil Debenture 2087",
+      "ltp": 1159.0,
+      "change": -0.68
+    },
+    {
+      "symbol": "NADEP",
+      "name": "Nadep Laghubitta Bittiya Sanstha Ltd.",
+      "ltp": 666.1,
+      "change": -2.47
+    },
+    {
+      "symbol": "NBBD2085",
+      "name": "10.25% NBB Debenture 2085",
+      "ltp": 1130.0,
+      "change": -2.59
+    },
+    {
+      "symbol": "NBF2",
+      "name": "NABIL BALANCED FUND-2",
+      "ltp": 9.0,
+      "change": -2.49
+    },
+    {
+      "symbol": "NBF3",
+      "name": "Nabil Balanced Fund-3",
+      "ltp": 9.1,
+      "change": -0.66
+    },
+    {
+      "symbol": "NBL",
+      "name": "Nepal Bank Limited",
+      "ltp": 291.8,
+      "change": -0.41
+    },
+    {
+      "symbol": "NBLD85",
+      "name": "8% Nabil Debenture 2085",
+      "ltp": 1045.6,
+      "change": 0.54
+    },
+    {
+      "symbol": "NESDO",
+      "name": "NESDO Sambridha Laghubitta Bittiye Sanstha Limited",
+      "ltp": 1325.0,
+      "change": -1.05
+    },
+    {
+      "symbol": "NFS",
+      "name": "Nepal Finance Ltd.",
+      "ltp": 478.0,
+      "change": -0.42
+    },
+    {
+      "symbol": "NGPL",
+      "name": "Ngadi Group Power Ltd.",
+      "ltp": 395.9,
+      "change": -0.2
+    },
+    {
+      "symbol": "NHDL",
+      "name": "Nepal Hydro Developers Ltd.",
+      "ltp": 639.7,
+      "change": 0.74
+    },
+    {
+      "symbol": "NHPC",
+      "name": "National Hydro Power Company Limited",
+      "ltp": 260.3,
+      "change": -0.5
+    },
+    {
+      "symbol": "NIBD84",
+      "name": "8.5% Nepal Investment Bank Debenture 2084",
+      "ltp": 1040.0,
+      "change": -2.71
+    },
+    {
+      "symbol": "NIBLGF",
+      "name": "NIBL Growth Fund",
+      "ltp": 9.16,
+      "change": 3.97
+    },
+    {
+      "symbol": "NIBLSTF",
+      "name": "NIBL Stable Fund",
+      "ltp": 8.33,
+      "change": -1.54
+    },
+    {
+      "symbol": "NIBSF2",
+      "name": "NIBL Samriddhi Fund 2",
+      "ltp": 8.62,
+      "change": -0.12
+    },
+    {
+      "symbol": "NICA",
+      "name": "NIC Asia Bank Ltd.",
+      "ltp": 309.3,
+      "change": -1.31
+    },
+    {
+      "symbol": "NICAD2091",
+      "name": "7% NIC Asia Debenture 2091",
+      "ltp": 1086.0,
+      "change": 0.0
+    },
+    {
+      "symbol": "NICBF",
+      "name": "NIC Asia Balanced Fund",
+      "ltp": 9.0,
+      "change": 0.0
+    },
+    {
+      "symbol": "NICFC",
+      "name": "NIC ASIA Flexi CAP Fund",
+      "ltp": 8.91,
+      "change": -0.78
+    },
+    {
+      "symbol": "NICGF2",
+      "name": "NIC Asia Growth Fund-2",
+      "ltp": 8.94,
+      "change": 0.68
+    },
+    {
+      "symbol": "NICL",
+      "name": "Nepal Insurance Co. Ltd.",
+      "ltp": 443.0,
+      "change": -0.67
+    },
+    {
+      "symbol": "NICLBSL",
+      "name": "NIC Asia Laghubitta Biitiya Sanstha Limited",
+      "ltp": 505.0,
+      "change": -0.59
+    },
+    {
+      "symbol": "NICSF",
+      "name": "NIC Asia Select - 30 (Index Fund",
+      "ltp": 8.32,
+      "change": -2.12
+    },
+    {
+      "symbol": "NIFRA",
+      "name": "Nepal Infrastructure Bank Limited",
+      "ltp": 244.5,
+      "change": -0.49
+    },
+    {
+      "symbol": "NIFRAGED",
+      "name": "Nifra Green Energy Debenture 6% - 2088/89",
+      "ltp": 1073.2,
+      "change": -2.44
+    },
+    {
+      "symbol": "NIL",
+      "name": "Neco Insurance Co. Ltd.",
+      "ltp": 525.0,
+      "change": -0.06
+    },
+    {
+      "symbol": "NIMB",
+      "name": "Nepal Investment Mega Bank Limited",
+      "ltp": 191.8,
+      "change": -0.1
+    },
+    {
+      "symbol": "NIMBD90",
+      "name": "10% NIMB Debenture 2090",
+      "ltp": 1225.0,
+      "change": 3.81
+    },
+    {
+      "symbol": "NIMBPO",
+      "name": "Nepal Investment Mega Bank Ltd. Promoter Share",
+      "ltp": 145.0,
+      "change": 0.76
+    },
+    {
+      "symbol": "NLG",
+      "name": "NLG Insurance Company Ltd.",
+      "ltp": 495.0,
+      "change": -1.57
+    },
+    {
+      "symbol": "NLIC",
+      "name": "Nepal Life Insurance Co. Ltd.",
+      "ltp": 726.9,
+      "change": -0.14
+    },
+    {
+      "symbol": "NLICL",
+      "name": "National Life Insurance Co. Ltd.",
+      "ltp": 564.0,
+      "change": -1.04
+    },
+    {
+      "symbol": "NMB",
+      "name": "NMB Bank Limited",
+      "ltp": 253.0,
+      "change": -0.98
+    },
+    {
+      "symbol": "NMBD89/90",
+      "name": "NMB Debenture 10.75%-2089/2090",
+      "ltp": 1400.0,
+      "change": 14.29
+    },
+    {
+      "symbol": "NMBHF2",
+      "name": "NMB Hybrid Fund L-II",
+      "ltp": 8.9,
+      "change": -0.34
+    },
+    {
+      "symbol": "NMBMF",
+      "name": "NMB Laghubitta Bittiya Sanstha Ltd.",
+      "ltp": 590.0,
+      "change": -0.35
+    },
+    {
+      "symbol": "NMBUR93/94",
+      "name": "4% NMB Urja Rinpatra (Energy Bond II",
+      "ltp": 896.1,
+      "change": 0.12
+    },
+    {
+      "symbol": "NMFBS",
+      "name": "National Laghubitta Bittiya Sanstha Limited",
+      "ltp": 1186.0,
+      "change": -0.75
+    },
+    {
+      "symbol": "NMIC",
+      "name": "Nepal Micro Insurance Co. Ltd.",
+      "ltp": 796.0,
+      "change": 0.0
+    },
+    {
+      "symbol": "NMLBBL",
+      "name": "Nerude Mirmire Laghubitta Bittiya Sanstha Limited",
+      "ltp": 497.2,
+      "change": -2.07
+    },
+    {
+      "symbol": "NRIC",
+      "name": "Nepal Re-Insurance Company Limited",
+      "ltp": 802.9,
+      "change": -0.01
+    },
+    {
+      "symbol": "NRM",
+      "name": "Nepal Republic Media Limited",
+      "ltp": 289.8,
+      "change": -0.07
+    },
+    {
+      "symbol": "NRN",
+      "name": "NRN Infrastructure and Development Limited",
+      "ltp": 1372.0,
+      "change": -0.72
+    },
+    {
+      "symbol": "NSIF2",
+      "name": "NMB Sulav Investment Fund - 2",
+      "ltp": 9.9,
+      "change": -1.88
+    },
+    {
+      "symbol": "NSY",
+      "name": "Nepal Life Samriddhi Lagani Yojana",
+      "ltp": 8.85,
+      "change": -0.67
+    },
+    {
+      "symbol": "NTC",
+      "name": "Nepal Doorsanchar Comapany Limited",
+      "ltp": 907.0,
+      "change": 0.1
+    },
+    {
+      "symbol": "NUBL",
+      "name": "Nirdhan Utthan Laghubitta Bittiya Sanstha Limited",
+      "ltp": 588.0,
+      "change": -0.56
+    },
+    {
+      "symbol": "NWCL",
+      "name": "Nepal Warehousing Company Limited",
+      "ltp": 566.0,
+      "change": -2.28
+    },
+    {
+      "symbol": "NYADI",
+      "name": "Nyadi Hydropower Limited",
+      "ltp": 340.0,
+      "change": -2.13
+    },
+    {
+      "symbol": "OHL",
+      "name": "Oriental Hotels Limited",
+      "ltp": 610.0,
+      "change": -2.09
+    },
+    {
+      "symbol": "OMPL",
+      "name": "Om Megashree Pharmaceuticals Limited",
+      "ltp": 867.0,
+      "change": 1.18
+    },
+    {
+      "symbol": "PBD93",
+      "name": "6.25% Prime Bank Debenture 2093",
+      "ltp": 1115.0,
+      "change": -1.41
+    },
+    {
+      "symbol": "PCBL",
+      "name": "Prime Commercial Bank Ltd.",
+      "ltp": 260.2,
+      "change": -0.31
+    },
+    {
+      "symbol": "PCIL",
+      "name": "Palpa Cement Industries Limited",
+      "ltp": 620.0,
+      "change": 0.45
+    },
+    {
+      "symbol": "PFL",
+      "name": "Pokhara Finance Ltd.",
+      "ltp": 338.0,
+      "change": -0.29
+    },
+    {
+      "symbol": "PHCL",
+      "name": "Peoples Hydropower Company Limited",
+      "ltp": 332.0,
+      "change": -2.5
+    },
+    {
+      "symbol": "PMHPL",
+      "name": "Panchakanya Mai Hydropower Ltd",
+      "ltp": 301.9,
+      "change": 0.63
+    },
+    {
+      "symbol": "PMLI",
+      "name": "Prabhu Mahalaxmi Life Insurance Limited",
+      "ltp": 422.7,
+      "change": 0.81
+    },
+    {
+      "symbol": "PPCL",
+      "name": "Panchthar Power Company Limited",
+      "ltp": 335.0,
+      "change": 0.6
+    },
+    {
+      "symbol": "PPL",
+      "name": "PPL",
+      "ltp": 321.1,
+      "change": -1.23
+    },
+    {
+      "symbol": "PRIN",
+      "name": "Prabhu Insurance Ltd.",
+      "ltp": 585.0,
+      "change": -0.85
+    },
+    {
+      "symbol": "PROFL",
+      "name": "Progressive Finance Limited",
+      "ltp": 383.6,
+      "change": -0.62
+    },
+    {
+      "symbol": "PRSF",
+      "name": "Prabhu Smart Fund",
+      "ltp": 12.16,
+      "change": 1.08
+    },
+    {
+      "symbol": "PRVU",
+      "name": "Prabhu Bank Limited",
+      "ltp": 186.0,
+      "change": -0.53
+    },
+    {
+      "symbol": "PSF",
+      "name": "Prabhu Select Fund",
+      "ltp": 10.92,
+      "change": 0.18
+    },
+    {
+      "symbol": "PURE",
+      "name": "Pure Energy Ltd.",
+      "ltp": 779.5,
+      "change": -0.93
+    },
+    {
+      "symbol": "RADHI",
+      "name": "Radhi Bidyut Company Ltd",
+      "ltp": 706.5,
+      "change": -0.9
+    },
+    {
+      "symbol": "RAWA",
+      "name": "Rawa Energy Development Limited",
+      "ltp": 409.9,
+      "change": -0.51
+    },
+    {
+      "symbol": "RBBF40",
+      "name": "RBB FOCUS 40",
+      "ltp": 8.9,
+      "change": -1.11
+    },
+    {
+      "symbol": "RBCL",
+      "name": "Rastriya Beema Company Limited",
+      "ltp": 13999.0,
+      "change": 1.43
+    },
+    {
+      "symbol": "RFPL",
+      "name": "River Falls Power Limited",
+      "ltp": 329.7,
+      "change": -0.72
+    },
+    {
+      "symbol": "RHGCL",
+      "name": "Rapti Hydro and General Construction Limited",
+      "ltp": 259.9,
+      "change": -0.04
+    },
+    {
+      "symbol": "RHPL",
+      "name": "RASUWAGADHI HYDROPOWER COMPANY LIMITED",
+      "ltp": 167.4,
+      "change": -0.36
+    },
+    {
+      "symbol": "RIDI",
+      "name": "Ridi Power Company Limited",
+      "ltp": 335.9,
+      "change": -0.62
+    },
+    {
+      "symbol": "RLEL",
+      "name": "Ridge Line Energy Limited",
+      "ltp": 732.9,
+      "change": -1.08
+    },
+    {
+      "symbol": "RLFL",
+      "name": "Reliance Finance Ltd.",
+      "ltp": 419.4,
+      "change": 0.79
+    },
+    {
+      "symbol": "RMF1",
+      "name": "RBB Mutual Fund 1",
+      "ltp": 9.0,
+      "change": -0.11
+    },
+    {
+      "symbol": "RMF2",
+      "name": "RBB Mutual Fund 2",
+      "ltp": 9.49,
+      "change": 2.93
+    },
+    {
+      "symbol": "RNLI",
+      "name": "Reliable Nepal Life Insurance Limited",
+      "ltp": 437.0,
+      "change": -0.18
+    },
+    {
+      "symbol": "RSDC",
+      "name": "RSDC Laghubitta Bittiya Sanstha Ltd.",
+      "ltp": 615.0,
+      "change": -0.16
+    },
+    {
+      "symbol": "RSML",
+      "name": "Reliance Spinning Mills Limited",
+      "ltp": 2708.0,
+      "change": -1.16
+    },
+    {
+      "symbol": "RSY",
+      "name": "Reliable Samriddhi Yojana",
+      "ltp": 9.18,
+      "change": -1.08
+    },
+    {
+      "symbol": "RSY2",
+      "name": "Reliable Samriddhi Yojana-2",
+      "ltp": 8.84,
+      "change": -0.11
+    },
+    {
+      "symbol": "RURU",
+      "name": "Ru Ru Jalbidhyut Pariyojana Limited",
+      "ltp": 597.0,
+      "change": -1.65
+    },
+    {
+      "symbol": "SABBL",
+      "name": "Salapa Bikas Bank Limited",
+      "ltp": 840.0,
+      "change": -1.18
+    },
+    {
+      "symbol": "SADBL",
+      "name": "Shangrila Development Bank Ltd.",
+      "ltp": 395.0,
+      "change": 0.28
+    },
+    {
+      "symbol": "SAEF2",
+      "name": "Sanima Equity Fund-2",
+      "ltp": 9.1,
+      "change": 0.89
+    },
+    {
+      "symbol": "SAGAR",
+      "name": "Sagar Distillery Limited",
+      "ltp": 1572.1,
+      "change": -1.13
+    },
+    {
+      "symbol": "SAGF",
+      "name": "Sanima Growth Fund",
+      "ltp": 9.44,
+      "change": 0.43
+    },
+    {
+      "symbol": "SAHAS",
+      "name": "Sahas Urja Limited",
+      "ltp": 688.0,
+      "change": 0.0
+    },
+    {
+      "symbol": "SAIL",
+      "name": "Shreenagar Agritech Industries Limited",
+      "ltp": 962.0,
+      "change": -1.72
+    },
+    {
+      "symbol": "SALICO",
+      "name": "Sagarmatha Lumbini Insurance Co. Limited",
+      "ltp": 531.9,
+      "change": 0.72
+    },
+    {
+      "symbol": "SANIMA",
+      "name": "Sanima Bank Limited",
+      "ltp": 366.0,
+      "change": 0.83
+    },
+    {
+      "symbol": "SANVI",
+      "name": "Sanvi Energy Limited",
+      "ltp": 522.0,
+      "change": 0.38
+    },
+    {
+      "symbol": "SAPDBL",
+      "name": "Saptakoshi Development Bank Ltd",
+      "ltp": 597.5,
+      "change": -0.42
+    },
+    {
+      "symbol": "SAPIL",
+      "name": "Sarvottam Paints Industries Limited",
+      "ltp": 1226.0,
+      "change": -4.14
+    },
+    {
+      "symbol": "SARBTM",
+      "name": "Sarbottam Cement Limited",
+      "ltp": 805.0,
+      "change": -1.35
+    },
+    {
+      "symbol": "SBCF",
+      "name": "Sunrise Bluechip Fund",
+      "ltp": 9.2,
+      "change": 0.11
+    },
+    {
+      "symbol": "SBI",
+      "name": "Nepal SBI Bank Limited",
+      "ltp": 403.9,
+      "change": 0.22
+    },
+    {
+      "symbol": "SBID2090",
+      "name": "7% Nepal SBI Bank Debenture 2090",
+      "ltp": 1125.0,
+      "change": 0.0
+    },
+    {
+      "symbol": "SBL",
+      "name": "Siddhartha Bank Limited",
+      "ltp": 408.0,
+      "change": -2.41
+    },
+    {
+      "symbol": "SBLD2091",
+      "name": "S.B.L Debenture 2091",
+      "ltp": 1170.0,
+      "change": -2.99
+    },
+    {
+      "symbol": "SBLD89",
+      "name": "10.75% SBL Debenture 2089",
+      "ltp": 1360.0,
+      "change": 8.8
+    },
+    {
+      "symbol": "SCB",
+      "name": "Standard Chartered Bank Limited",
+      "ltp": 663.0,
+      "change": 0.3
+    },
+    {
+      "symbol": "SEF",
+      "name": "Siddhartha Equity Fund",
+      "ltp": 9.6,
+      "change": 0.0
+    },
+    {
+      "symbol": "SEF2",
+      "name": "Siddhartha Equity Fund 2",
+      "ltp": 9.1,
+      "change": 0.89
+    },
+    {
+      "symbol": "SFEF",
+      "name": "Sunrise Focused Equity Fund",
+      "ltp": 9.05,
+      "change": 0.56
+    },
+    {
+      "symbol": "SFMF",
+      "name": "Sunrise First Mutual Fund",
+      "ltp": 9.25,
+      "change": 1.54
+    },
+    {
+      "symbol": "SGHC",
+      "name": "Swet-Ganga Hydropower & Construction Limited",
+      "ltp": 290.2,
+      "change": -1.29
+    },
+    {
+      "symbol": "SGHL",
+      "name": "Sanigad Hydro Limited",
+      "ltp": 468.0,
+      "change": -0.83
+    },
+    {
+      "symbol": "SGIC",
+      "name": "Sanima GIC Insurance Limited",
+      "ltp": 382.0,
+      "change": -0.98
+    },
+    {
+      "symbol": "SHEL",
+      "name": "Singati Hydro Energy Limited",
+      "ltp": 301.0,
+      "change": 0.37
+    },
+    {
+      "symbol": "SHINE",
+      "name": "Shine Resunga Development Bank Ltd.",
+      "ltp": 393.9,
+      "change": -0.68
+    },
+    {
+      "symbol": "SHINED",
+      "name": "Shine Resunga Debenture",
+      "ltp": 1145.0,
+      "change": 1.78
+    },
+    {
+      "symbol": "SHIVM",
+      "name": "SHIVAM CEMENTS LTD",
+      "ltp": 681.0,
+      "change": -0.58
+    },
+    {
+      "symbol": "SHL",
+      "name": "Soaltee Hotel Limited",
+      "ltp": 509.0,
+      "change": -0.16
+    },
+    {
+      "symbol": "SHLB",
+      "name": "Shrijanshil Laghubitta Bittiya Sanstha Limited",
+      "ltp": 1260.0,
+      "change": -1.35
+    },
+    {
+      "symbol": "SHPC",
+      "name": "Sanima Mai Hydropower Ltd.",
+      "ltp": 529.0,
+      "change": -0.38
+    },
+    {
+      "symbol": "SICL",
+      "name": "Shikhar Insurance Co. Ltd.",
+      "ltp": 538.0,
+      "change": -0.39
+    },
+    {
+      "symbol": "SIFC",
+      "name": "Shree Investment Finance Co. Ltd.",
+      "ltp": 475.0,
+      "change": -0.63
+    },
+    {
+      "symbol": "SIGS2",
+      "name": "Siddhartha Investment Growth Scheme - 2",
+      "ltp": 9.51,
+      "change": -1.45
+    },
+    {
+      "symbol": "SIGS3",
+      "name": "Siddhartha Investment Growth Scheme 3",
+      "ltp": 10.21,
+      "change": -1.26
+    },
+    {
+      "symbol": "SIKLES",
+      "name": "Sikles Hydropower Limited",
+      "ltp": 562.0,
+      "change": -0.27
+    },
+    {
+      "symbol": "SINDU",
+      "name": "Sindhu Bikash Bank Ltd",
+      "ltp": 448.0,
+      "change": -8.55
+    },
+    {
+      "symbol": "SIPD",
+      "name": "Shikhar Power Development Limited",
+      "ltp": 548.9,
+      "change": -2.03
+    },
+    {
+      "symbol": "SJCL",
+      "name": "SANJEN JALAVIDHYUT COMPANY LIMITED",
+      "ltp": 238.6,
+      "change": -1.4
+    },
+    {
+      "symbol": "SJLIC",
+      "name": "SuryaJyoti Life Insurance Company Limited",
+      "ltp": 415.9,
+      "change": -0.74
+    },
+    {
+      "symbol": "SKBBL",
+      "name": "Sana Kisan Bikas Laghubitta Bittiya sanstha Limited.",
+      "ltp": 760.2,
+      "change": -0.37
+    },
+    {
+      "symbol": "SKHEL",
+      "name": "Suryakunda Hydro Electric Limited",
+      "ltp": 786.1,
+      "change": -2.47
+    },
+    {
+      "symbol": "SKHL",
+      "name": "Super Khudi Hydropower Limited",
+      "ltp": 716.0,
+      "change": -0.28
+    },
+    {
+      "symbol": "SLBBL",
+      "name": "Swarojgar Laghubitta Bittiya Sanstha Ltd.",
+      "ltp": 821.9,
+      "change": -0.24
+    },
+    {
+      "symbol": "SLBSL",
+      "name": "Samudayik Laghubitta Bittiya Sanstha Limited",
+      "ltp": 871.0,
+      "change": -1.58
+    },
+    {
+      "symbol": "SLCF",
+      "name": "Sanima Large Cap Fund",
+      "ltp": 9.12,
+      "change": 0.0
+    },
+    {
+      "symbol": "SMATA",
+      "name": "Samata Gharelu Laghubitta Bittiya Sanstha Limited",
+      "ltp": 679.9,
+      "change": -0.74
+    },
+    {
+      "symbol": "SMB",
+      "name": "Support Laghubitta Bittiya Sanstha Limited",
+      "ltp": 1825.0,
+      "change": 1.33
+    },
+    {
+      "symbol": "SMFBS",
+      "name": "Swabhimaan Laghubitta Bittiya Sanstha Ltd",
+      "ltp": 1343.0,
+      "change": 0.97
+    },
+    {
+      "symbol": "SMH",
+      "name": "Super Mai Hydropower Limited",
+      "ltp": 513.0,
+      "change": 0.9
+    },
+    {
+      "symbol": "SMHL",
+      "name": "Super Madi Hydropower Limited",
+      "ltp": 477.7,
+      "change": 1.55
+    },
+    {
+      "symbol": "SMJC",
+      "name": "Sagarmatha Jalabidhyut Company Limited",
+      "ltp": 404.5,
+      "change": 0.0
+    },
+    {
+      "symbol": "SMPDA",
+      "name": "Sampada Laghubitta Bittiya Sanstha Limited",
+      "ltp": 722.0,
+      "change": -0.01
+    },
+    {
+      "symbol": "SNLI",
+      "name": "Sun Nepal Life Insurance Company Limited",
+      "ltp": 410.0,
+      "change": -0.65
+    },
+    {
+      "symbol": "SNORL",
+      "name": "Snow Rivers Limited",
+      "ltp": 818.0,
+      "change": -3.07
+    },
+    {
+      "symbol": "SOHL",
+      "name": "Solu Hydropower Limited",
+      "ltp": 620.0,
+      "change": -1.59
+    },
+    {
+      "symbol": "SONA",
+      "name": "Sonapur Minerals and Oil Limited",
+      "ltp": 418.9,
+      "change": -0.26
+    },
+    {
+      "symbol": "SOPL",
+      "name": "Sopan Pharmaceuticals Limited",
+      "ltp": 653.6,
+      "change": -1.28
+    },
+    {
+      "symbol": "SPC",
+      "name": "Samling Power Company Limited",
+      "ltp": 380.1,
+      "change": -2.19
+    },
+    {
+      "symbol": "SPDL",
+      "name": "Synergy Power Development Ltd.",
+      "ltp": 345.1,
+      "change": -0.78
+    },
+    {
+      "symbol": "SPHL",
+      "name": "Sayapatri Hydropower Limited",
+      "ltp": 513.0,
+      "change": -2.1
+    },
+    {
+      "symbol": "SPIL",
+      "name": "Siddhartha Premier Insurance Limited",
+      "ltp": 610.2,
+      "change": 0.36
+    },
+    {
+      "symbol": "SPL",
+      "name": "Shuvam Power Company Limited",
+      "ltp": 580.0,
+      "change": -1.99
+    },
+    {
+      "symbol": "SRLI",
+      "name": "Sanima Reliance Life Insurance Limited",
+      "ltp": 366.3,
+      "change": -0.76
+    },
+    {
+      "symbol": "SRLIP",
+      "name": "Sanima Reliance Life Insurance Limited Promoter Share",
+      "ltp": 196.0,
+      "change": 0.0
+    },
+    {
+      "symbol": "SSHL",
+      "name": "Shiva Shree Hydropower Limited",
+      "ltp": 206.1,
+      "change": -1.2
+    },
+    {
+      "symbol": "STC",
+      "name": "Salt Trading Corporation",
+      "ltp": 5550.0,
+      "change": -0.11
+    },
+    {
+      "symbol": "SWASTIK",
+      "name": "Swastik Laghubitta Bittiya Sanstha Limited",
+      "ltp": 1777.0,
+      "change": 0.91
+    },
+    {
+      "symbol": "SWBBL",
+      "name": "Swabalamban Laghubitta Bittiya Sanstha Limited",
+      "ltp": 695.0,
+      "change": -0.01
+    },
+    {
+      "symbol": "SWMF",
+      "name": "Suryodaya Womi Laghubitta Bittiya Sanstha Limited",
+      "ltp": 599.9,
+      "change": -1.3
+    },
+    {
+      "symbol": "SYPNL",
+      "name": "SY Panel Nepal Limited",
+      "ltp": 1341.0,
+      "change": -2.4
+    },
+    {
+      "symbol": "TAMOR",
+      "name": "Sanima Middle Tamor Hydropower Limited",
+      "ltp": 530.0,
+      "change": 0.63
+    },
+    {
+      "symbol": "TPC",
+      "name": "Terhathum Power Company Limited",
+      "ltp": 359.0,
+      "change": 0.0
+    },
+    {
+      "symbol": "TPKHL",
+      "name": "Taksar Pikhuwa Khola Hydropower Limited",
+      "ltp": 490.0,
+      "change": 0.41
+    },
+    {
+      "symbol": "TRH",
+      "name": "Taragaon Regency Hotel Limited",
+      "ltp": 810.0,
+      "change": 0.96
+    },
+    {
+      "symbol": "TSHL",
+      "name": "Three Star Hydropower Limited",
+      "ltp": 340.0,
+      "change": -0.44
+    },
+    {
+      "symbol": "TTL",
+      "name": "Trade Tower Limited",
+      "ltp": 673.0,
+      "change": 0.0
+    },
+    {
+      "symbol": "TVCL",
+      "name": "Trishuli Jal Vidhyut Company Limited",
+      "ltp": 291.0,
+      "change": 0.34
+    },
+    {
+      "symbol": "UAIL",
+      "name": "United Ajod Insurance Limited",
+      "ltp": 362.0,
+      "change": -0.88
+    },
+    {
+      "symbol": "UHEWA",
+      "name": "Upper Hewakhola Hydropower Company Limited",
+      "ltp": 582.0,
+      "change": -0.68
+    },
+    {
+      "symbol": "ULBSL",
+      "name": "Upakar Laghubitta Bittiya Sanstha Limited",
+      "ltp": 2535.0,
+      "change": -0.35
+    },
+    {
+      "symbol": "ULHC",
+      "name": "Upper Lohore Khola Hydropower Company Limited",
+      "ltp": 345.0,
+      "change": -1.43
+    },
+    {
+      "symbol": "UMHL",
+      "name": "United Modi Hydropower Ltd.",
+      "ltp": 550.0,
+      "change": -0.33
+    },
+    {
+      "symbol": "UMRH",
+      "name": "United IDI Mardi RB Hydropower Limited.",
+      "ltp": 509.0,
+      "change": -0.39
+    },
+    {
+      "symbol": "UNHPL",
+      "name": "Union Hydropower Limited",
+      "ltp": 356.9,
+      "change": -0.31
+    },
+    {
+      "symbol": "UNL",
+      "name": "Unilever Nepal Limited",
+      "ltp": 48600.0,
+      "change": -1.02
+    },
+    {
+      "symbol": "UNLB",
+      "name": "Unique Nepal Laghubitta Bittiya Sanstha Limited",
+      "ltp": 1223.0,
+      "change": 0.25
+    },
+    {
+      "symbol": "UPCL",
+      "name": "UNIVERSAL POWER COMPANY LTD",
+      "ltp": 332.0,
+      "change": -0.57
+    },
+    {
+      "symbol": "UPPER",
+      "name": "Upper Tamakoshi Hydropower Ltd",
+      "ltp": 189.9,
+      "change": -0.58
+    },
+    {
+      "symbol": "USHEC",
+      "name": "Upper Solu Hydro Electric Company Limited",
+      "ltp": 497.0,
+      "change": 0.3
+    },
+    {
+      "symbol": "USHL",
+      "name": "Upper Syange  Hydropower Limited",
+      "ltp": 520.0,
+      "change": 0.97
+    },
+    {
+      "symbol": "USLB",
+      "name": "Unnati Sahakarya Laghubitta Bittiya Sanstha Limited",
+      "ltp": 1130.0,
+      "change": -1.74
+    },
+    {
+      "symbol": "VLBS",
+      "name": "Vijaya laghubitta Bittiya Sanstha Ltd.",
+      "ltp": 610.0,
+      "change": -1.21
+    },
+    {
+      "symbol": "VLUCL",
+      "name": "Vision Lumbini Urja Company Limited",
+      "ltp": 378.9,
+      "change": -0.26
+    },
+    {
+      "symbol": "YMHL",
+      "name": "Yambaling Hydropower Limited",
+      "ltp": 514.0,
+      "change": 1.78
+    }
+  ]
+}

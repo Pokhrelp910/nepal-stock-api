@@ -1,0 +1,34 @@
+name: Update NEPSE Stocks Daily
+
+on:
+  schedule:
+    # 09:45 UTC is 03:30 PM Nepal Time (NPT is UTC + 5:45)
+    # Sunday to Thursday are NEPSE trading days (0-4)
+    - cron: '45 9 * * 0-4'
+  workflow_dispatch: # Allows manual trigger from GitHub UI anytime
+
+permissions:
+  contents: write
+
+jobs:
+  update-stocks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Stock Scraper
+        run: python update_stocks.py
+
+      - name: Commit and Push if updated
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add stocks.json
+          git commit -m "Auto-update NEPSE stocks [skip ci]" || exit 0
+          git push
